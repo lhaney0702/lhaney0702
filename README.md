@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **lhaney0702/lhaney0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a new software developer taking a bootcamp at Tech Elevator.
+I'm Lindsey! I recently graduated from an intensive full-stack Java software developer bootcamp at Tech Elevator! I am excited to be a part of this amazing field and can't wait to see where this journey takes me! Let's connect and explore how we can code a brighter future together!
